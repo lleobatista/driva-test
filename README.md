@@ -1,4 +1,4 @@
-# Teste feito pela Driva
+# Desafio feito pela Driva
 
 O código e os desafios pedidos estão no `Driva-exam.ipynb`
 
